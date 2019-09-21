@@ -20,5 +20,9 @@ DEV work on another directory second time
 dev work 1
 
 
+
 =========
 tmp fix
+
+=========
+working doing for git stash
